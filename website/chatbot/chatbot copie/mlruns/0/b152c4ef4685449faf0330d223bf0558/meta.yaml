@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louisladuve/Desktop/COURS%20Centrale/COURS_4A/Chatbot/chatbot/mlruns/0/b152c4ef4685449faf0330d223bf0558/artifacts
+end_time: 1647880120752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b152c4ef4685449faf0330d223bf0558
+run_uuid: b152c4ef4685449faf0330d223bf0558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647880038514
+status: 3
+tags: []
+user_id: louisladuve
